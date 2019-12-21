@@ -14,6 +14,6 @@
 ## Day 2
 Source code in repository
 
-![Day 2]()
+![Day 2](https://raw.githubusercontent.com/wrightwriter/Middecembertomidjanuaryvember/master/Day%203.png)
 
 
