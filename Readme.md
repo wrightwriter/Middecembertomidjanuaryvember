@@ -20,4 +20,4 @@
 Mainly a sound project! 
 [Realtime on shadertoy](https://www.shadertoy.com/view/3ldGzj)
 
-![Day 4](https://i.imgur.com/USc1Yrg.gifv)
+![Day 4](https://i.imgur.com/USc1Yrg.gif)
