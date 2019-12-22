@@ -11,9 +11,12 @@
 
 ![Day 2](https://media.discordapp.net/attachments/216616558301151232/657687663645818890/x0aKYnr5O6OAAAAABJRU5ErkJggg.png)
 
-## Day 2
-Source code in repository
+## Day 3 Source code in repository
 
-![Day 2](https://raw.githubusercontent.com/wrightwriter/Middecembertomidjanuaryvember/master/Day%203.png)
+![Day 3](https://raw.githubusercontent.com/wrightwriter/Middecembertomidjanuaryvember/master/Day%203.png)
 
 
+## Day 4
+Mainly a sound project! 
+[Realtime on shadertoy](https://www.shadertoy.com/view/3ldGzj)
+![Day 4](https://i.imgur.com/USc1Yrg.gifv)
