@@ -21,3 +21,13 @@ Mainly a sound project!
 [Realtime on shadertoy](https://www.shadertoy.com/view/3ldGzj)
 
 ![Day 4](https://i.imgur.com/USc1Yrg.gif)
+
+## Day 5
+[Hear and see on shadertoy](https://www.shadertoy.com/view/wtd3zX)
+
+![Day 5](https://i.imgur.com/H6hphZY.gif)
+
+## Day 6
+## Day 7
+## Day 8
+## Day 9
